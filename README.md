@@ -1,1 +1,1 @@
-"# SQLExercise" 
+# SQLExercise
